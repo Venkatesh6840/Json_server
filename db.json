@@ -4,11 +4,9 @@
 	"report_Id" : "1000",
 	"Claim_Id" : "12345",
 	"Owner" : {
-		"Owner_name": {
-			"first_name" : "John",
-			"Last_name" : "Duor",
-			"Middle_name" : "Lam"
-			},
+		"Owner_first_name": "John",
+		"Owner_Middle_name": "Lam",
+		"Owner_Last_name" :"Duor",
 		"Owner_Address": "123 street",
 		"Owner_Phone" : "12345678",
 		"Commercial_career" : "2456 street",
