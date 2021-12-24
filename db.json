@@ -2,8 +2,8 @@
 
   "police_report": {
 	"report_Id" : "1000",
-	"Claim_Id" : "12345",
-	"Owner" : {
+	"claim_Id" : "12345",
+	"owner" : {
 		"Owner_first_name": "John",
 		"Owner_Middle_name": "Lam",
 		"Owner_Last_name" :"Duor",
@@ -12,7 +12,7 @@
 		"Commercial_career" : "2456 street",
 		"Commercial_career_phone" : "14567889"
   		},
-  	"Vehicle" : {
+  	"vehicle" : {
 		"license_plate" : "1232232323",
 		"Vehicle_Identification" : "ASDASDAS122332",
 		"Vehicle_Year" : "2021",
@@ -25,14 +25,14 @@
 		"Non_motorist_location" : "Intersection",
 		"Action" : "struck"
 	},
-	 "Traffic" : {
+	 "traffic" : {
 		"Trafic_flow" : "1 way",
 		"Traffice_control" : "flasher",
 		"Rail_crossing" : "yes"
 	}
 	},
 	
-	"HL7_claim" : {
+	"hl7_claim" : {
 		"Beneficiary_first_name" : "John",
 		"Beneficiary_last_name" : "Duor",
 		"Beneficiary_Middle_name" : "Lam",
