@@ -4,43 +4,43 @@
 	"report_Id" : "1000",
 	"claim_Id" : "12345",
 	"owner" : {
-		"Owner_first_name": "John",
-		"Owner_Middle_name": "Lam",
-		"Owner_Last_name" :"Duor",
-		"Owner_Address": "123 street",
-		"Owner_Phone" : "12345678",
-		"Commercial_career" : "2456 street",
-		"Commercial_career_phone" : "14567889"
+		"owner_first_name": "John",
+		"owner_middle_name": "Lam",
+		"owner_last_name" :"Duor",
+		"owner_address": "123 street",
+		"owner_phone" : "12345678",
+		"commercial_career" : "2456 street",
+		"commercial_career_phone" : "14567889"
   		},
   	"vehicle" : {
 		"license_plate" : "1232232323",
-		"Vehicle_Identification" : "ASDASDAS122332",
-		"Vehicle_Year" : "2021",
-		"Vehicle_make" : "others",
-		"Insurance_company" : "MUTUAL",
-		"Color" : "RED",
-		"Type_of_use" : "Commercial"
+		"vehicle_identification" : "ASDASDAS122332",
+		"vehicle_year" : "2021",
+		"vehicle_make" : "others",
+		"insurance_company" : "MUTUAL",
+		"color" : "RED",
+		"type_of_use" : "Commercial"
 	},
-	 "Events" : {
-		"Non_motorist_location" : "Intersection",
-		"Action" : "struck"
+	 "events" : {
+		"non_motorist_location" : "Intersection",
+		"action" : "struck"
 	},
 	 "traffic" : {
-		"Trafic_flow" : "1 way",
-		"Traffice_control" : "flasher",
-		"Rail_crossing" : "yes"
+		"trafic_flow" : "1 way",
+		"traffice_control" : "flasher",
+		"rail_crossing" : "yes"
 	}
 	},
 	
 	"hl7_claim" : {
-		"Beneficiary_first_name" : "John",
-		"Beneficiary_last_name" : "Duor",
-		"Beneficiary_Middle_name" : "Lam",
-		"Beneficiary_age" : 344,
-		"Beneficiary_sex" : "Male",
-		"Beneficiary_State_code" :12345,
-		"Beneficiary_county_code" :1234,
-		"Beneficiary_coverage_months" :24
+		"beneficiary_first_name" : "John",
+		"beneficiary_last_name" : "Duor",
+		"beneficiary_middle_name" : "Lam",
+		"beneficiary_age" : 344,
+		"beneficiary_sex" : "Male",
+		"beneficiary_state_code" :12345,
+		"beneficiary_county_code" :1234,
+		"beneficiary_coverage_months" :24
 	}
 }
 
