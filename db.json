@@ -1,14 +1,48 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+
+  "police_report": {
+	"report_Id" : "1000",
+	"Claim_Id" : "12345",
+	"Owner" : {
+		"Owner_name": {
+			"first_name" : "John",
+			"Last_name" : "Duor",
+			"Middle_name" : "Lam"
+			},
+		"Owner_Address": "123 street",
+		"Owner_Phone" : "12345678",
+		"Commercial_career" : "2456 street",
+		"Commercial_career_phone" : "14567889"
+  		},
+  	"Vehicle" : {
+		"license_plate" : "1232232323",
+		"Vehicle_Identification" : "ASDASDAS122332",
+		"Vehicle_Year" : "2021",
+		"Vehicle_make" : "others",
+		"Insurance_company" : "MUTUAL",
+		"Color" : "RED",
+		"Type_of_use" : "Commercial"
+	},
+	 "Events" : {
+		"Non_motorist_location" : "Intersection",
+		"Action" : "struck"
+	},
+	 "Traffic" : {
+		"Trafic_flow" : "1 way",
+		"Traffice_control" : "flasher",
+		"Rail_crossing" : "yes"
+	}
+	},
+	
+	"HL7_claim" : {
+		"Beneficiary_first_name" : "John",
+		"Beneficiary_last_name" : "Duor",
+		"Beneficiary_Middle_name" : "Lam",
+		"Beneficiary_age" : 344,
+		"Beneficiary_sex" : "Male",
+		"Beneficiary_State_code" :12345,
+		"Beneficiary_county_code" :1234,
+		"Beneficiary_coverage_months" :24
+	}
 }
+
