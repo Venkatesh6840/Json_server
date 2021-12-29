@@ -33,6 +33,7 @@
 	},
 	
 	"hl7_claim" : [ {
+		"beneficiary_claim_id : "1234ED",
 		"beneficiary_first_name" : "John",
 		"beneficiary_last_name" : "Duor",
 		"beneficiary_middle_name" : "Lam",
@@ -43,6 +44,7 @@
 		"beneficiary_coverage_months" :24
 	},
 		       {
+		"beneficiary_claim_id : "6840ED",	       
 		"beneficiary_first_name" : "John",
 		"beneficiary_last_name" : "Duor",
 		"beneficiary_middle_name" : "Lam",
@@ -53,6 +55,7 @@
 		"beneficiary_coverage_months" :24
 	},
 		       {
+		"beneficiary_claim_id : "8965ED",	       
 		"beneficiary_first_name" : "John",
 		"beneficiary_last_name" : "Duor",
 		"beneficiary_middle_name" : "Lam",
