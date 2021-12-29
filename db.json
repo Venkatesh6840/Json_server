@@ -32,7 +32,7 @@
 	}
 	},
 	
-	"hl7_claim" : {[ {
+	"hl7_claim" : [ {
 		"beneficiary_first_name" : "John",
 		"beneficiary_last_name" : "Duor",
 		"beneficiary_middle_name" : "Lam",
@@ -63,6 +63,5 @@
 		"beneficiary_coverage_months" :24
 	}
 	]
-		      }
 }
 
