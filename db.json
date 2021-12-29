@@ -32,7 +32,27 @@
 	}
 	},
 	
-	"hl7_claim" : {
+	"hl7_claim" :[ {
+		"beneficiary_first_name" : "John",
+		"beneficiary_last_name" : "Duor",
+		"beneficiary_middle_name" : "Lam",
+		"beneficiary_age" : 344,
+		"beneficiary_sex" : "Male",
+		"beneficiary_state_code" :12345,
+		"beneficiary_county_code" :1234,
+		"beneficiary_coverage_months" :24
+	},
+		       {
+		"beneficiary_first_name" : "John",
+		"beneficiary_last_name" : "Duor",
+		"beneficiary_middle_name" : "Lam",
+		"beneficiary_age" : 344,
+		"beneficiary_sex" : "Male",
+		"beneficiary_state_code" :12345,
+		"beneficiary_county_code" :1234,
+		"beneficiary_coverage_months" :24
+	},
+		       {
 		"beneficiary_first_name" : "John",
 		"beneficiary_last_name" : "Duor",
 		"beneficiary_middle_name" : "Lam",
