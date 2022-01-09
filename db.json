@@ -66,7 +66,7 @@
 		"beneficiary_coverage_months" :24
 	}],
   "hl7" : [{
-  "CLAIM_CODE" : "C10"
+  "CLAIM_CODE" : "C10",
   "DESYNPUF_ID": "00013D2EFD8E45D1",
   "BENE_BIRTH_DT": "19230501",
   "BENE_SEX_IDENT_CD": "1",
@@ -100,7 +100,7 @@
   "BENRES_CAR": "30",
   "PPPYMT_CAR": "0"
 }, {
-  "CLAIM_CODE" : "V89"
+  "CLAIM_CODE" : "V89",
   "DESYNPUF_ID": "00016F745862898F",
   "BENE_BIRTH_DT": "19430101",
   "BENE_SEX_IDENT_CD": "1",
