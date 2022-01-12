@@ -16,8 +16,7 @@
 		"owner_address": "123 street",
 		"owner_phone" : "12345678",
 		"commercial_career" : "2456 street",
-		"commercial_career_phone" : "14567889",
-
+		"commercial_career_phone" : "14567889"
   		},
   	"vehicle" : {
 		"license_plate" : "1232232323",
