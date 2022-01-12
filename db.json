@@ -16,7 +16,7 @@
 		  "BENE_RACE_CD": "1",
 		  "BENE_ESRD_IND": "0",
 		  "SP_STATE_CODE": "26",
-		  "BENE_COUNTY_CD": "950",
+		  "BENE_COUNTY_CD": "950"
   		},
   	"vehicle" : {
 		"license_plate" : "1232232323",
