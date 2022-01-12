@@ -10,7 +10,13 @@
 		"owner_address": "123 street",
 		"owner_phone" : "12345678",
 		"commercial_career" : "2456 street",
-		"commercial_career_phone" : "14567889"
+		"commercial_career_phone" : "14567889",
+		  "BENE_BIRTH_DT": "19230501",
+		  "BENE_SEX_IDENT_CD": "1",
+		  "BENE_RACE_CD": "1",
+		  "BENE_ESRD_IND": "0",
+		  "SP_STATE_CODE": "26",
+		  "BENE_COUNTY_CD": "950",
   		},
   	"vehicle" : {
 		"license_plate" : "1232232323",
@@ -133,6 +139,8 @@
   "MEDREIMB_CAR": "930",
   "BENRES_CAR": "150",
   "PPPYMT_CAR": "0"
+}],
+"Police_scrape" :[{
 }]
 }
 
