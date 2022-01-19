@@ -105,8 +105,8 @@
   "BENRES_CAR": "30",
   "PPPYMT_CAR": "0"
 }, {
-  "CLAIM_CODE" : "V890XXD",
-  "CLAIM_DESCRIPTION" : "Person injured in unspecified motor-vehicle accident, nontraffic, subsequent encounter"
+  "CLAIM_CODE" : "T5801XA",
+  "CLAIM_DESCRIPTION" : "Toxic effect of carbon monoxide from motor vehicle exhaust, accidental (unintentional), initial encounter"
   "DESYNPUF_ID": "00016F745862898F",
   "BENE_BIRTH_DT": "19430101",
   "BENE_SEX_IDENT_CD": "1",
