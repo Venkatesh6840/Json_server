@@ -73,6 +73,7 @@
   "hl7" : [{
   "CLAIM_CODE" : "C100",
   "CLAIM_DESCRIPTION" : "Malignant neoplasm of vallecula",
+  "BENE_CLAIM_ID" : "1234ED",
   "DESYNPUF_ID": "00013D2EFD8E45D1",
   "BENE_BIRTH_DT": "19230501",
   "BENE_SEX_IDENT_CD": "1",
@@ -107,6 +108,7 @@
 }, {
   "CLAIM_CODE" : "T5801XA",
   "CLAIM_DESCRIPTION" : "Toxic effect of carbon monoxide from motor vehicle exhaust, accidental unintentional, initial encounter",
+  "BENE_CLAIM_ID" : "4567ED",
   "DESYNPUF_ID": "00016F745862898F",
   "BENE_BIRTH_DT": "19430101",
   "BENE_SEX_IDENT_CD": "1",
