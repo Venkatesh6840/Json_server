@@ -103,7 +103,7 @@
       }
    ],
 "police_report": [{
-"report_Id" : "1000",
+"report_Id" : "13-0102-15",
 "BENE_BIRTH_DT": "19230501",
 "BENE_SEX_IDENT_CD": "1",
 "BENE_RACE_CD": "1",
@@ -129,7 +129,7 @@
 "traffice_control" : "flasher",
 "rail_crossing" : "yes"
 	},{
-"report_Id" : "1001",
+"report_Id" : "09-1010-14",
 "BENE_BIRTH_DT": "192323423",
 "BENE_SEX_IDENT_CD": "5",
 "BENE_RACE_CD": "5",
