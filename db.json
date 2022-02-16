@@ -160,7 +160,7 @@
   "CLAIM_CODE" : "T5801XA",
   "CLAIM_DESCRIPTION" : "Toxic effect of carbon monoxide from motor vehicle exhaust, accidental (unintentional), initial encounter",
   "DESYNPUF_ID": "00013D2EFD8E45D1",
-  "BENE_BIRTH_DT": "19230501",
+  "BENE_BIRTH_DT": "12/29/1992",
   "BENE_SEX_IDENT_CD": "1",
   "BENE_RACE_CD": "1",
   "SP_STATE_CODE": "26",
