@@ -195,7 +195,7 @@
   "CLAIM_CODE" : "C100",
   "CLAIM_DESCRIPTION" : "Malignant neoplasm of vallecula",
   "DESYNPUF_ID": "00016F745862898F",
-  "BENE_BIRTH_DT": "19230501",
+  "BENE_BIRTH_DT": "19430101",
   "BENE_SEX_IDENT_CD": "1",
   "BENE_RACE_CD": "1",
   "SP_STATE_CODE": "39",
